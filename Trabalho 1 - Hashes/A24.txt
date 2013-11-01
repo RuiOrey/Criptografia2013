@@ -1,0 +1,19 @@
+
+	The following string is the hash value of a password that we know to be formed by a word from the wordslist.txt file (available at the course web page) and two characters (digits, upper or lower case letters), concatenated in an unknown order.
+
+"69883793c21f0fd83c85e7735296f2c003bfe562c1622a1a92801a79c992c9980c9b0e535d268125888779ac93123a964005ae1f0fa2cb9c5711f481291d07a6"
+
+	The hash function used was "sha514" that is available in hashlib python module (see http://docs.python.org/library/hashlib.html).
+	
+	Find the correct password, as soon as possible, and present the result in a tar archive containing:
+		the solution
+		all the python programs used to obtain it
+
+ then sign the tar file using the command:
+		"gpg -s file.tgz"
+
+	The resulting file ("file.tgz.gpg") must be submitted via the web form available in the course page.
+	
+	
+	 
+	
